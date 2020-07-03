@@ -3,6 +3,8 @@
 Lily58 is 6×4+4keys column-staggered split keyboard.
 This fork adds an encoder to the key below the controller.
 
+I got this board manufactured by JLCPCB. Just upload the file called gerber.zip to their quote tool, choose how many (5 is minimum), choose your color, (default options are fine) and order! Mine were $8.40 for a set of 5 and $9.03 shipping in July 2020.
+
 This picture is from the original Lily58 Glow. Pictures of this project are forthcoming.
 ![Lily in the nighttime](https://i.imgur.com/uvap4Nt.jpg)
 
@@ -18,8 +20,8 @@ This picture is from the original Lily58 Glow. Pictures of this project are fort
 
 | Part Name                    | Quantity | Link                                                                                                                                                                                                                                                                                          | Price/Unit | Total    |
 | ---------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
-| Lily58L PCB                  | 2        | JLCPCB                                                                                                                                                                                                                                                                                        | \$5.00     | \$10.00  |
-| Lily58L Case                 | 1        | ^                                                                                                                                                                                                                                                                                             | \$0.00     | \$0.00   |
+| Lily58L PCB                  | 2        | JLCPCB                                                                                                                                                                                                                                                                                        | \$8.72     | \$17.43  |
+| Lily58L Case                 | 1        | Using 2 more circuit boards as the bottom. No other case for now.                                                                                                                                                                                                                             | \$0.00     | \$0.00   |
 | Pro Micro                    | 2        | https://www.aliexpress.com/item/32888212119.html?spm=a2g0o.productlist.0.0.30d25a53xh6DaX&algo_pvid=9e5fb73d-c3e5-475f-bda1-b4666011fa38&algo_expid=9e5fb73d-c3e5-475f-bda1-b4666011fa38-8&btsid=0ab6f82215936295153445783e35b6&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_     | \$5.59     | \$11.17  |
 | Micro USB Cable              | 2        | --                                                                                                                                                                                                                                                                                            | \$0.00     | \$0.00   |
 | OLED module                  | 2        | https://www.aliexpress.com/item/32861875681.html?spm=a2g0o.productlist.0.0.835aa9ccjrnsdV&algo_pvid=7def10f1-db5f-4a13-951c-5bf7341c096e&algo_expid=7def10f1-db5f-4a13-951c-5bf7341c096e-0&btsid=0ab6d69f15936287684868637e6e79&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_     | \$1.96     | \$3.92   |
