@@ -1,5 +1,7 @@
 # Lily58 × qtkb Glow + Rotary Encoders
 
+This is still very much interested development. I've ordered the pcb and parts and are waiting for them to arrive. There are known incompatibilities and this design and product list have not yet been tested in the real world.
+
 Lily58 is 6×4+4keys column-staggered split keyboard.
 This fork adds an encoder to the key below the controller.
 
